@@ -1,3 +1,5 @@
+![image](https://github.com/AmitaNITBhopal/test/blob/master/GithubBannerImage.png)
+
 # 👋 Hi, I'm Amita Singh  
 
 🚀 **Technology Program Manager | Technology Leader | Cloud & DevOps Enthusiast**  
