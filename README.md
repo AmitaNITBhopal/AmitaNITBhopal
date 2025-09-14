@@ -1,4 +1,4 @@
-![image](https://github.com/AmitaNITBhopal/test/blob/master/GithubBannerImage.png)
+
 
 # 👋 Hi, I'm Amita Singh  
 
